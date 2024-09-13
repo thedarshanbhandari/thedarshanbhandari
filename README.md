@@ -1,11 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://inferror.com)
+[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://www.inferror.com)
 <h1 align="center">Hi 👋, I'm Darshan Bhandari</h1>
 <h3 align="center">A passionate frontend developer & UI designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedarshanbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="thedarshanbhandari" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thedarshanbhandari](https://github.com/thedarshanbhandari)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/darshan590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan590" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/darshan-bhandari-128793241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-bhandari-128793241" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/darshanbhandari3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshanbhandari3" height="30" width="40" /></a>
 </p>
